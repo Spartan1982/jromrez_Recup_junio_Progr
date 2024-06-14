@@ -1,0 +1,14 @@
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\obj\Debug\net6.0\jromrez_Recup_Junio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\obj\Debug\net6.0\jromrez_Recup_Junio.AssemblyInfoInputs.cache
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\obj\Debug\net6.0\jromrez_Recup_Junio.AssemblyInfo.cs
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\obj\Debug\net6.0\jromrez_Recup_Junio.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\bin\Debug\net6.0\jromrez_Recup_Junio.exe
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\bin\Debug\net6.0\jromrez_Recup_Junio.deps.json
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\bin\Debug\net6.0\jromrez_Recup_Junio.runtimeconfig.json
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\bin\Debug\net6.0\jromrez_Recup_Junio.dll
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\bin\Debug\net6.0\jromrez_Recup_Junio.pdb
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\obj\Debug\net6.0\jromrez_Recup_Junio.dll
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\obj\Debug\net6.0\refint\jromrez_Recup_Junio.dll
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\obj\Debug\net6.0\jromrez_Recup_Junio.pdb
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\obj\Debug\net6.0\jromrez_Recup_Junio.genruntimeconfig.cache
+C:\Users\Jaime\Desktop\Progamacion\jromrez_Recup_Junio\jromrez_Recup_Junio\obj\Debug\net6.0\ref\jromrez_Recup_Junio.dll
